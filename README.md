@@ -43,4 +43,5 @@ go build
 - [x]	[指针](./docs/pointer.md)
 - [x]	[结构体](./docs/struct.md)
 - [x]	[切片](./docs/slice.md)
-
+- [x]	[范围(range)](./docs/range.md)
+- [x]	[Map](./docs/Map.md)
