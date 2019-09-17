@@ -35,11 +35,11 @@ go build
 - [x]  	[数据类型](https://www.runoob.com/go/go-data-types.html)
 - [x]  	[变量](./docs/variable.md)
 - [x] 	[常量](./docs/constant.md)
-- [x] 	[运算符](https://www.runoob.com/go/go-operators.html)
+- [x] 	[运算符](https://www.runoob.com/go/go-operators.html) 注意：自增/减不支持前置，如```++i```，```--i```
 - [x]	条件语句（比C多了个select语句）；循环语句（比C少了while循环）
 - [x]	[函数](./docs/func.md)
 - [x]	[作用域](./docs/scope.md)
 - [x]	[数组](./docs/array.md)
-- [ ]	指针
+- [x]	[指针](./docs/pointer.md)
 - [ ]	结构体
 - [ ]	切片
