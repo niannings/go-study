@@ -42,4 +42,5 @@ go build
 - [x]	[数组](./docs/array.md)
 - [x]	[指针](./docs/pointer.md)
 - [x]	[结构体](./docs/struct.md)
-- [ ]	切片
+- [x]	[切片](./docs/slice.md)
+
