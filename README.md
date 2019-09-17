@@ -35,3 +35,6 @@ go build
 - [x]  	[数据类型](https://www.runoob.com/go/go-data-types.html)
 - [x]  	[变量](./docs/variable.md)
 - [x] 	[常量](./docs/constant.md)
+- [x] 	[运算符](https://www.runoob.com/go/go-operators.html)
+- [x]	条件语句（比C多了个select语句）；循环语句（比C少了while循环）
+- [x]	[函数](./docs/func.md)
