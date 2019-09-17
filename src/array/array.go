@@ -12,7 +12,7 @@ import "fmt"
 	var balance = [5]float32{1000.0, 2.0, 3.4, 7.0, 50.0}
 	自动大小
 	var balance = [...]float32{1000.0, 2.0, 3.4, 7.0, 50.0}
-	var balance = []float32{1000.0, 2.0, 3.4, 7.0, 50.0}
+	var balance = []float32{1000.0, 2.0, 3.4, 7.0, 50.0} // 其实这里定义里一个切片
 */
 
 func main() {

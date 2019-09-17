@@ -41,5 +41,5 @@ go build
 - [x]	[作用域](./docs/scope.md)
 - [x]	[数组](./docs/array.md)
 - [x]	[指针](./docs/pointer.md)
-- [ ]	结构体
+- [x]	[结构体](./docs/struct.md)
 - [ ]	切片
