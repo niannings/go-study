@@ -30,6 +30,8 @@ go build
 # hello world
 ```
 
-## 索引
-- [x]  [变量](./docs/variable.md)
-- [ ]  常量
+## 目录索引
+- [x]	[基础语法](https://www.runoob.com/go/go-data-types.html)
+- [x]  	[数据类型](https://www.runoob.com/go/go-data-types.html)
+- [x]  	[变量](./docs/variable.md)
+- [x] 	[常量](./docs/constant.md)

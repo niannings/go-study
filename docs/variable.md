@@ -1,3 +1,4 @@
+# Go语言变量
 ```go
 package main
 
@@ -34,6 +35,11 @@ func main() {
 	// ## 三、省略var
 	e := "girl"
 	fmt.Println(e)
+	var (
+		aa int = 1
+	)
+	// 11
+	fmt.Println(aa)
 	/*
 		注意 := 左侧如果没有声明新的变量，就产生编译错误
 		var intVal int
