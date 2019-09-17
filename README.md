@@ -38,3 +38,8 @@ go build
 - [x] 	[运算符](https://www.runoob.com/go/go-operators.html)
 - [x]	条件语句（比C多了个select语句）；循环语句（比C少了while循环）
 - [x]	[函数](./docs/func.md)
+- [x]	[作用域](./docs/scope.md)
+- [x]	[数组](./docs/array.md)
+- [ ]	指针
+- [ ]	结构体
+- [ ]	切片
