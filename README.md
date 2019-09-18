@@ -55,3 +55,4 @@ go build
 - [菜鸟go](https://www.runoob.com/go/go-tutorial.html)
 - [go中文文档](http://shouce.jb51.net/golang-doc)
 - [理解 Go interface 的 5 个关键点](https://sanyuesha.com/2017/07/22/how-to-understand-go-interface/)
+- [Go语言并发与并行学习笔记(一)](https://blog.csdn.net/kjfcpua/article/details/18265441)
