@@ -48,3 +48,9 @@ go build
 - [ ]	[接口](./docs/interface.md)
 - [ ]	[错误处理](./docs/error.md)
 - [ ]	[协程](./docs/goroutine.md)
+
+## 参考资料
+- [go官方文档](https://golang.org/doc/)
+- [go中文文档](http://shouce.jb51.net/golang-doc)
+- [理解 Go interface 的 5 个关键点](https://sanyuesha.com/2017/07/22/how-to-understand-go-interface/)
+- [菜鸟go](https://www.runoob.com/go/go-tutorial.html)
