@@ -45,7 +45,7 @@ go build
 - [x]	[切片](./docs/slice.md)
 - [x]	[范围(range)](./docs/range.md)
 - [x]	[Map](./docs/Map.md)
-- [ ]	[接口](./docs/interface.md)
+- [x]	[接口](./docs/interface.md)
 - [ ]	[错误处理](./docs/error.md)
 - [ ]	[协程](./docs/goroutine.md)
 

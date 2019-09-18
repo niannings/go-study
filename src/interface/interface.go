@@ -118,6 +118,7 @@ func main() {
 		fmt.Println("i store *NokiaPhone", t)
 	}
 
+	// 4. 空的 interface之空interface切片
 	dataSlice := []int{1, 2, 3, 4, 5}
 	// printSlice(dataSlice) // 会报错
 	// 手动转换
