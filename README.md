@@ -47,8 +47,8 @@ go build
 - [x]	[Map](./docs/Map.md)
 - [x]	[接口](./docs/interface.md)
 - [ ]	[错误处理](./docs/error.md)
-- [ ]	[协程](./docs/goroutine.md)
-- [x]	[通道](./docs/channel.md)
+- [x]	[协程](./docs/goroutine.md)
+- [x]	[信道](./docs/channel.md)
 
 ## 参考资料
 - [go官方文档](https://golang.org/doc/)
